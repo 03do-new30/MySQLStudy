@@ -10,3 +10,4 @@
 - [JOIN](SELECT/조건에_부합하는_중고거래_댓글.md)
 - [서브쿼리 사용](SELECT/과일로_만든_아이스크림_고르기.md)
 - [GROUP BY, HAVING](SELECT/서울에_위치한_식당_목록.md)
+- [GROUP BY, HAVING, COUNT](SELECT/재구매가_일어난_상품과_회원_리스트.md)
